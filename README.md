@@ -1,6 +1,4 @@
-If it was a **C# Windows Forms** project, then it used .NET internally—but you don’t need to mention it if you’re unsure.
 
-Use:
 
 # 💰 Taka Tracker
 
